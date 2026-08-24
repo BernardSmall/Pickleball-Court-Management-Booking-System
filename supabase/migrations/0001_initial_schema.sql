@@ -1,0 +1,15 @@
+-- Planned tables:
+-- profiles
+-- courts
+-- operating_hours
+-- bookings
+-- court_blocks
+-- membership_plans
+-- memberships
+-- membership_allowances
+-- membership_history
+-- wallets
+-- wallet_transactions
+-- tour_state
+-- notifications
+-- audit_logs
